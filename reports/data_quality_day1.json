@@ -1,0 +1,9 @@
+{
+  "date": "2026-06-03 10:43",
+  "master_codes": 40,
+  "nav_codes": 40,
+  "matched": 40,
+  "missing": [],
+  "coverage_pct": 100.0,
+  "verdict": "PASS "
+}
